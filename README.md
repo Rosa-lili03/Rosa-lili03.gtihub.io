@@ -210,7 +210,7 @@ button:disabled { opacity: .6; cursor: wait; }
     <div class="score" id="final-score"></div>
 
     <button id="funny-button" type="button" aria-expanded="false">
-        😂 Show me a funny picture
+        Show more
     </button>
 
     <div id="funny-picture" class="hidden">
@@ -233,7 +233,7 @@ button:disabled { opacity: .6; cursor: wait; }
                   fill="#ffd45c" stroke="#fff0a6" stroke-width="4" stroke-linejoin="round"/>
             <text x="210" y="278" text-anchor="middle" fill="#f3d9ff"
                   font-family="system-ui,sans-serif" font-size="21" font-weight="700">
-                CEO of knowing random stuff
+                Victorious 
             </text>
         </svg>
     </div>
