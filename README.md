@@ -1,6 +1,5 @@
 # Hello_Stranger 
 [Enjoy Mate](https://github.com/user-attachments/files/34342689/My.First.Ever.Site.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
